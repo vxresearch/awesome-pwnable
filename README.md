@@ -4,6 +4,10 @@
 
  - [awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
  
+## Tools
+
+ - [pwndbg](https://github.com/pwndbg/pwndbg) - a collection of python that makes debugging with gdb suck less; a PEDA replacement
+ 
 ## Heap Exploitation
 
  - [malloc.c](https://github.com/vxresearch/awesome-pwnable/blob/master/malloc.c) - `malloc()` implementation in glib-2.23 (as found in Ubuntu 16.04.1 LTS)

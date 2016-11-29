@@ -6,7 +6,7 @@
  
 ## Heap Exploitation
 
- - [malloc.c](https://gist.github.com/edwincheese/59b23507923501a6e3caf52951a0327e) - `malloc()` implementation in glib-2.23 (as found in Ubuntu 16.04.1 LTS)
+ - [malloc.c](https://github.com/vxresearch/awesome-pwnable/blob/master/malloc.c) - `malloc()` implementation in glib-2.23 (as found in Ubuntu 16.04.1 LTS)
  - [how2heap](https://github.com/shellphish/how2heap) - Awesome collection of various heap exploitation techniques
  - [fastbin fever](http://tukan.farm/2016/09/04/fastbin-fever/) - Explanation of the consolidation of fastbin chunks
  - [Understanding the heap by breaking it (pdf)](https://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf) - A Black Hat 07 presentation
